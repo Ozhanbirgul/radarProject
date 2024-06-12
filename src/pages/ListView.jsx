@@ -37,7 +37,7 @@ const ListView = ({openModal}) => {
         <thead>
           <tr>
             <th>id</th>
-            <th>Kuyruk Kodu</th>
+            <th>K Kodu</th>
             <th>Enlem</th>
             <th>Boylam</th>
             <th></th>
